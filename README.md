@@ -34,7 +34,7 @@ Strengthen Java programming fundamentals
 
 Clone this repository:
 
-git clone https://github.com/your-username/MatrixOperations.git
+git clone https://github.com/meysiii/MatrixOperations.git
 
 
 # Navigate into the project folder:
