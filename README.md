@@ -53,4 +53,4 @@ java MatrixOperations
 
 # output
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/84e53ba6-bfcf-44cc-ab08-bd6cc583890e" />
